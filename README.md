@@ -4,7 +4,8 @@ Just a repository for my Drawbot's scripts.
 # guidelines_calligraphy.py
 This is a guideline’s maker for calligraphy training. This script basically takes your broad nib width and the alphabet's proportion and draws the guides for you.
 
-How to use:
+How to use this:
+
 After open and running the script in DrawBot:
 
 1) in nib_size, insert your nib width  (in milimeters)
