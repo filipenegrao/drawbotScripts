@@ -13,3 +13,8 @@ After open and running the script in DrawBot:
 3) in xHeight, the x-Height of your alphabet (in nib widths);
 4) the ascender in nib widths;
 5) the descender.
+
+# Thanks
+
+Thanks to everyone who contributed with ideas, suggestions, comments, etc. Special thanks to my little brother Lucas Negrão, who's a much better programmer than I am.
+
